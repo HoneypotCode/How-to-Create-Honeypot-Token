@@ -1,3 +1,5 @@
+*Step By Step Guide "How to Create Honeypot Token"*
+
 Guide to creating honeypot ERC-20 or BEP-20 tokens on Ethereum Mainnet/Base Mainnet or Binance Smart Chain
 
 The EtherCode Innovation development team presents. Launch your own honeypot token using our instructions. We are a team of crypto enthusiasts and developers engaged in research in this area
@@ -12,14 +14,10 @@ Complete Guide on How to Get Users to Buy Your Tokens https://ethercodeinnovatio
 
 Сomplete guide to creating a Honeypot Token VERSION 1.0 https://ethercodeinnovation.com/honeypot-token/
 
-Complete guide to creating a antidetect honeypot token https://ethercodeinnovation.com/create-switchable-anti-detect-honeypot-token/
-
-
 Honeypot token smart contract source code VERSION 2.0 https://ethercodeinnovation.com/honeypot-code-v2/
 
 Honeypot token smart contract source code VERSION 1.0 https://ethercodeinnovation.com/honeypot-code/
 
-Antidetect honeypot token smart contract source code https://ethercodeinnovation.com/switchable-anti-detect-honeypot-code/
 
 *Telegram: @EtherCodeInnovation*
 
