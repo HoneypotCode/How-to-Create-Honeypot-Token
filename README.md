@@ -10,6 +10,8 @@ We recommend that you use the materials for educational and informational purpos
 
 With our smart contracts you can issue ERC-20 or BEP-20 tokens on Uniswap (Ethereum Mainnet/Base Mainnet) or Pancakeswap (Binance Smart Chain)
 
+__Guide on YouTube: https://www.youtube.com/watch?v=I1KYALe5J2k&t=143s__
+
 __Сomplete guide to creating a Honeypot Token VERSION 2.0 https://ethercodeinnovation.com/create-honeypot-token/__
 
 Complete Guide on How to Get Users to Buy Your Tokens https://ethercodeinnovation.com/promotion-tokens/
