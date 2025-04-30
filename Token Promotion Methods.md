@@ -2,8 +2,8 @@ The EtherCode Innovation development team presents
 
 Token Promotion Methods: https://ethercodeinnovation.com/promotion-tokens/
 
-*Telegram: @EtherCodeInnovation*
+__Telegram: @EtherCodeInnovation__
 
-For individual orders, you can also contact: *Telegram: @EtherCodeInnovation*
+__For individual orders, you can also contact: *Telegram: @EtherCodeInnovation__
 
 We will develop a custom smart contract according to your requirements
