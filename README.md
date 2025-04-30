@@ -25,6 +25,6 @@ __Telegram: @EtherCodeInnovation__
 
 __For individual orders, you can also contact: *Telegram: @EtherCodeInnovation__
 
-__We will develop a custom smart contract according to your requirements__
+We will develop a custom smart contract according to your requirements
 
 Our website: https://ethercodeinnovation.com/
