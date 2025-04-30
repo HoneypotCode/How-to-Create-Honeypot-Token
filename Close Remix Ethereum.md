@@ -6,6 +6,8 @@ If you have verified the smart contract, you can use the smart contract function
 
 View instructions: https://ethercodeinnovation.com/closed-remix-ethereum/
 
-Telegram: @EtherCodeInnovation
+*Telegram: @EtherCodeInnovation*
 
-For individual orders, you can also contact: ethercodeinnovation7@gmail.com We will develop a custom smart contract according to your requirements
+For individual orders, you can also contact: *Telegram: @EtherCodeInnovation*
+
+We will develop a custom smart contract according to your requirements
