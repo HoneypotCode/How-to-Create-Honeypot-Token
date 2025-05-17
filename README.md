@@ -1,4 +1,4 @@
-# Create Honeypot Token  
+# Create Honeypot Token Rug Pull BSC/ ETHEREUM
 Step By Step Guide "How to Create Honeypot Token" Rug Pull
 
 Launch your own honeypot ERC-20 or BEP-20 token on Ethereum Mainnet, Base Mainnet, or Binance Smart Chain using this comprehensive guide by EtherCode Innovation.
