@@ -53,14 +53,14 @@ We develop custom smart contracts tailored to your needs.
 
 ## 🌐 Available in other languages / Доступно на других языках / 在其他语言中可用:
 
-🇬🇧 How to create a honeypot token (BNB, Base, Ethereum) — Full guide (English)  
-🇷🇺 Как создать скам токен в сети BNB / Ethereum / Base — Полное руководство (Русский)  
-🇩🇪 So erstellen Sie ein Honeypot-Token auf BNB / Ethereum / Base – vollständige Anleitung (Deutsch)  
-🇫🇷 Comment créer un token honeypot sur BNB / Ethereum / Base – Guide complet (Français)  
-🇹🇷 BNB / Ethereum / Base ağı üzerinde honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)  
-🇪🇸 Cómo crear un token honeypot en BNB / Ethereum / Base – Guía completa (Español)  
-🇵🇹 Como criar um token honeypot em BNB / Ethereum / Base – Guia completo (Português)  
-🇮🇳 BNB / Ethereum / Base नेटवर्क में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)  
-🇨🇳 如何在 BNB / Ethereum / Base 上创建陷阱代币 – 全面指南 (中文)
+🇬🇧 [How to create a honeypot token (BNB, Base, Ethereum) — Full guide (English)](./README.md)  
+🇷🇺 [Как создать скам токен в сети BNB / Ethereum / Base — Полное руководство (Русский)](./README-ru.md)  
+🇩🇪 [So erstellen Sie ein Honeypot-Token auf BNB / Ethereum / Base – vollständige Anleitung (Deutsch)](./README-de.md)  
+🇫🇷 [Comment créer un token honeypot sur BNB / Ethereum / Base – Guide complet (Français)](./README-fr.md)  
+🇹🇷 [BNB / Ethereum / Base ağı üzerinde honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)](./README-tr.md)  
+🇪🇸 [Cómo crear un token honeypot en BNB / Ethereum / Base – Guía completa (Español)](./README-es.md)  
+🇵🇹 [Como criar um token honeypot em BNB / Ethereum / Base – Guia completo (Português)](./README-pt.md)  
+🇮🇳 [BNB / Ethereum / Base नेटवर्क में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)](./README-hi.md)  
+🇨🇳 [如何在 BNB / Ethereum / Base 上创建陷阱代币 – 全面指南 (中文)](./README-zh.md)
 
 
