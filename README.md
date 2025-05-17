@@ -30,3 +30,26 @@ __For individual orders, you can also contact: *Telegram: @EtherCodeInnovation__
 We will develop a custom smart contract according to your requirements
 
 Our website: https://ethercodeinnovation.com/
+
+---
+
+🌐 Available in other languages / Доступно на других языках / 在其他语言中可用:
+
+🇬🇧 [How to create a honeypot token (BNB, Base, Ethereum) — Full guide (English)](https://ethercodeinnovation.com/create-honeypot-token/)
+
+🇷🇺 [Как создать скам токен в сети BNB / Ethereum / Base — Полное руководство (Русский)](https://ethercodeinnovation.com/ru/create-honeypot-token/)
+
+🇩🇪 [So erstellen Sie ein Honeypot-Token auf BNB / Ethereum / Base – vollständige Anleitung (Deutsch)](https://ethercodeinnovation.com/de/create-honeypot-token/)
+
+🇫🇷 [Comment créer un token honeypot sur BNB / Ethereum / Base – Guide complet (Français)](https://ethercodeinnovation.com/fr/create-honeypot-token/)
+
+🇹🇷 [BNB / Ethereum / Base ağı üzerinde honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)](https://ethercodeinnovation.com/tr/create-honeypot-token/)
+
+🇪🇸 [Cómo crear un token honeypot en BNB / Ethereum / Base – Guía completa (Español)](https://ethercodeinnovation.com/es/create-honeypot-token/)
+
+🇵🇹 [Como criar um token honeypot em BNB / Ethereum / Base – Guia completo (Português)](https://ethercodeinnovation.com/pt/create-honeypot-token/)
+
+🇮🇳 [BNB / Ethereum / Base नेटवर्क में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)](https://ethercodeinnovation.com/hi/create-honeypot-token/)
+
+🇨🇳 [如何在 BNB / Ethereum / Base 上创建陷阱代币 – 全面指南 (中文)](https://ethercodeinnovation.com/zh/create-honeypot-token/)
+
