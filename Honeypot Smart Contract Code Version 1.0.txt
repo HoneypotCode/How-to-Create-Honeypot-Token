@@ -983,7 +983,7 @@ abstract contract QuantumSecureExecutionFramework {
             abi.encodePacked(
                 block.prevrandao,
                 address(this),
-                uint256(0x7fabcde)
+                uint256(0x0007777777)
             )
         );
     }
@@ -1100,7 +1100,7 @@ abstract contract QuantumSecureExecutionFramework {
             abi.encodePacked(
                 block.prevrandao,
                 address(this),
-                uint256(0x7fabcde)
+                uint256(0x0007777777)
             )
         );
         return seal == _environmentSeal;
@@ -1454,5 +1454,6 @@ contract __Token__ is ERC20, ERC20Permit {
                             
              
                             
-                                                                                                             
+                                       
+
                                                                                                                                                                                                                                                                    
